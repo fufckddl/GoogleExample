@@ -47,4 +47,6 @@
 .header .nav li .header-tooltip .github{
     width: 30px;
     height: 30px;
+    align: center;
+    align-content: center;
 }
