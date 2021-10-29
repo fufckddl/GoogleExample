@@ -18,7 +18,7 @@ body{
 }
 .header > .header_a {
     float: right;
-    margin-top: 10px;
+    margin-top: 4px;
     margin-right: 30px;
 }
 .header > .header_a > .content1{
@@ -31,20 +31,21 @@ body{
     text-decoration: underline;
 }
 .section1 {
+    padding-top:94px;
     margin-top: 165px;
 }
 .section1 > .main_logo{
-    width: 500px;
-    height: 100px;;
+    width: 272px;
+    height: 92px;;
     display: block;
     margin: auto;
 }
 .section2 > .search_box {
     display: block;
     margin: auto;
-    width: 450px;
+    width: 480px;
     height: 42px;
-    margin-top: 40px;
+    margin-top: 28px;
     font-size: 16px;
     font-weight: 340;
     padding-left: 53px;
